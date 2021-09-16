@@ -1,0 +1,1 @@
+# stakeing-page-static-test
