@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a37ef8e9.chunk.css",
+    "main.js": "./static/js/main.16770f87.chunk.js",
+    "main.js.map": "./static/js/main.16770f87.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9ac8ee8e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9ac8ee8e.js.map",
+    "static/js/2.23a9a610.chunk.js": "./static/js/2.23a9a610.chunk.js",
+    "static/js/2.23a9a610.chunk.js.map": "./static/js/2.23a9a610.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a37ef8e9.chunk.css.map": "./static/css/main.a37ef8e9.chunk.css.map",
+    "static/js/2.23a9a610.chunk.js.LICENSE.txt": "./static/js/2.23a9a610.chunk.js.LICENSE.txt",
+    "static/media/fonts.scss": "./static/media/d-din-bold-webfont.c74eba90.woff",
+    "static/media/add_normal.049411bb.svg": "./static/media/add_normal.049411bb.svg",
+    "static/media/apron_logo.093ea673.svg": "./static/media/apron_logo.093ea673.svg",
+    "static/media/arrow_vi.9752a09e.svg": "./static/media/arrow_vi.9752a09e.svg",
+    "static/media/arrow_white.1ae6b50a.svg": "./static/media/arrow_white.1ae6b50a.svg",
+    "static/media/bal_normal.00107c79.svg": "./static/media/bal_normal.00107c79.svg",
+    "static/media/stakinginprogress.7df5d892.svg": "./static/media/stakinginprogress.7df5d892.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ac8ee8e.js",
+    "static/js/2.23a9a610.chunk.js",
+    "static/css/main.a37ef8e9.chunk.css",
+    "static/js/main.16770f87.chunk.js"
+  ]
+}
