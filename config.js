@@ -1,3 +1,3 @@
 window.GeneralConfig = {
-    network: "kovan"
+    network: "rinkeby"
 };
